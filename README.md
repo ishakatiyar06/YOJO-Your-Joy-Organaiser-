@@ -57,6 +57,6 @@ YOJO supports multiple categories and use cases:
 <img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/752b519a-f509-48a0-b2fd-356a21c3b1d3" />
 <img width="1895" height="949" alt="image" src="https://github.com/user-attachments/assets/ff12ba0f-b46d-4111-be41-e26e70b76450" />
 <img width="1892" height="935" alt="image" src="https://github.com/user-attachments/assets/62989d80-84b6-4778-9f5d-67d45a119c41" />
-<img width="1892" height="935" alt="image" src="https://github.com/user-attachments/assets/6a343938-36f6-40f3-85ab-fa11a0655ab8" />
+<img width="1380" height="770" alt="image" src="https://github.com/user-attachments/assets/14821876-d9eb-4ac1-af1f-c4ef982567c6" />
 
 
